@@ -576,3 +576,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Aug2025 14:38:13.944] [Server thread/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@630f0186
 [14Aug2025 14:43:13.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Aug2025 14:43:13.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 14:48:13.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 14:48:13.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 14:48:38.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Aug2025 14:48:38.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cerrar<--[HERE]
+[14Aug2025 14:48:45.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Aug2025 14:48:45.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: here<--[HERE]
+[14Aug2025 14:53:13.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 14:53:13.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
